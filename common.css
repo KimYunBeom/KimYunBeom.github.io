@@ -1,0 +1,59 @@
+.chkWithText {
+  position: relative;
+  top: 0.0625rem !important;
+  margin-right: 0.25rem !important;
+  cursor: pointer;
+}
+
+.btn__td {
+  color: #212529;
+  text-decoration: none;
+}
+
+.dpin {
+  display: inline !important;
+}
+
+.dpib {
+  display: inline-block !important;
+}
+
+.dpbl {
+  display: block !important;
+}
+
+.w-5 {
+  width: 5% !important;
+}
+
+.w-10 {
+  width: 10% !important;
+}
+
+.w-15 {
+  width: 15% !important;
+}
+
+.w-20 {
+  width: 20% !important;
+}
+
+.w-60 {
+  width: 60% !important;
+}
+
+.w-70 {
+  width: 70% !important;
+}
+
+.w-80 {
+  width: 80% !important;
+}
+
+.w-85 {
+  width: 85% !important;
+}
+
+.w-90 {
+  width: 90% !important;
+}
